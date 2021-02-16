@@ -957,9 +957,9 @@ textarea:focus {
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 420px) {
     .transport ul li .transport-element {
-        padding: 5px;
+        padding: 15px 5px;
     }
 
     .transport ul li .transport-element .transport-image {
@@ -969,6 +969,6 @@ textarea:focus {
     }
 
     .contact .contact-return a {
-        bottom: 75px;
+        bottom: 74px;
     }
 }
