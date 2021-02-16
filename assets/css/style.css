@@ -930,6 +930,7 @@ textarea:focus {
     .aboutus .inner .image-aboutus {
         height: 250px;
         position: relative;
+        display: block;
     }
 
     .service-element {
