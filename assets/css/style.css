@@ -927,6 +927,10 @@ textarea:focus {
         font-size: 1.2em;
     }
 
+    .aboutus .inner {
+        height: auto;
+    }
+
     .aboutus .inner .image-aboutus {
         height: 250px;
         position: relative;
@@ -955,6 +959,10 @@ textarea:focus {
 
     .contact .inner {
         margin-bottom: 30px;
+    }
+
+    .swiper-slide {
+        height: auto;
     }
 }
 
